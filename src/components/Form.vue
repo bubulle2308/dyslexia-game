@@ -7,7 +7,7 @@
       <h1>Hello! I'm Nazca!</h1>
       <form action="">
         <div class="form">
-            <h3>What is your {{ title }}?</h3>
+            <h2>What is your {{ title }}?</h2>
           <div class="input-container" v-if="!showAge">
             <label for="name">Name</label>
             <csm-input type="text" @csmInput="inputName"></csm-input>
