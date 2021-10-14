@@ -2,7 +2,7 @@
   <section class="main-container">
     <aside class="sidebar">
       <article class="content">
-        <h4>Thank you so much for helping me get home to my family and friends.</h4>
+        <h1 class="title">Thank you so much for helping me get home to my family and friends.</h1>
         <p>I really enjoyed our adventure. Please take care and be good!</p>
 
         <csm-button class="action" primary v-on:csmClick="seeReport()">See the report</csm-button>
