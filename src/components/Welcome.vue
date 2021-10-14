@@ -52,7 +52,6 @@ export default defineComponent({
 
 .title {
   font-size: 3.33em;
-  text-transform: uppercase;
   letter-spacing: .15em;
   color: var(--colors-text-white-base);
 }
