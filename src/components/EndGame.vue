@@ -4,8 +4,9 @@
       <article class="content">
         <h4>Thank you so much for helping me get home to my family and friends.</h4>
         <p>I really enjoyed our adventure. Please take care and be good!</p>
+        <p>Note: There are some information for your parents, let them know about it!</p>
 
-        <csm-button class="action" primary v-on:csmClick="seeReport()">See the report</csm-button>
+        <csm-button class="action" primary v-on:csmClick="seeReport()">Parents information</csm-button>
       </article>
       <img class="companion" :src="companion.path" />
     </aside>
